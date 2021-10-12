@@ -1,5 +1,5 @@
 # Lab Template
-File tempate for basic HTML, CSS, and JavaScript classes
+File template for basic HTML, CSS, and JavaScript classes
 
 ## Basic Structure
 Here is the basic structure with stub or empty files in place.

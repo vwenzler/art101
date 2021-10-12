@@ -1,0 +1,35 @@
+h1  {
+      color: purple;
+      font-size: 200%;
+      font-family: "monospace";
+}
+
+p {
+  font-family:"fantasy";
+  text-indent: 25px;
+  margin-left: 10px;
+}
+
+#filestructure {
+    width: 700px;
+}
+
+#content1 {
+  background-color: #cccccc;
+      width: 1500px;
+      min-height: 300px;
+      padding: 15px;
+      margin: 10px;
+      border: solid 6px #673499;
+      font-size: 17px;
+}
+
+#content2 {
+  background-color: #cccccc;
+    width: 800px;
+    min-height: 250px;
+    padding: 15px;
+    margin: 10px;
+    border: solid 5px #673499;
+    font-size: 15px;
+}
