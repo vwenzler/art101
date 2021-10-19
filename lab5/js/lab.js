@@ -6,7 +6,7 @@
 
  // Define Variables
  make = "Volvo";
- model = "V70"
+ model = "V70";
  color = "Silver";
  year = "2000";
 
