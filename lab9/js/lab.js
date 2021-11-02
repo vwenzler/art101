@@ -4,4 +4,4 @@
  *License: Public Domain
  */
 
- 
+var newEl = getElementById(output);
