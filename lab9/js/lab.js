@@ -4,4 +4,8 @@
  *License: Public Domain
  */
 
-var newEl = getElementById(output);
+var outputEl = document.getElementById("output");
+
+var newEl = document.createElement"("div");
+
+outputEl.appendChild(newEl);
