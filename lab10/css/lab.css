@@ -4,12 +4,15 @@ p {
   margin-left: 10px;
 }
 
+#background{
+  background-color: lightgray;
+}
 #output {
-background-color: black;
-  width: 1000px;
+background-color: #5FDFC2;
+  width: 200px;
   padding: 15px;
   margin: 10px;
-  border: solid 9px #DF3FCE;
+  border: solid 9px #2F5BE6;
 }
 
 #content-challenge {
@@ -32,6 +35,14 @@ background-color: black;
       font-size: 17px;
 }
 
+#input{
+padding: 15px
+}
+
+#mybutton {
+margin-left: 20px
+padding: 15px
+}
 #content-results {
   background-color: #87EC77;
       width: 700px;

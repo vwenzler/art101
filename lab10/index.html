@@ -1,31 +1,42 @@
 <html>
     <head>
         <title>Lab 10 - Events and Forms</title>
-        <link rel="stylesheet" type="text/css" href="../css/site.css"
-        <link rel="stylesheet" type="text/css" href="css/lab.css">
-        <script src="js/lab.js" defer></script>
+        <link rel="stylesheet" type="text/css" href="../css/site.css">
+    		<link rel="stylesheet" type="text/css" href="css/lab.css">
+  			<script src="js/lab.js" defer></script>
   	 </head>
-  		  	<body>
+  		  	<body id="background">
   		      	 <div id="content-challenge">
-  		      		 <h1>Lab 9: Javascript for the Web</h1>
+  		      		 <h1>Lab 10: Javascript Events and Forms</h1>
   		      			  <h2>Challenges</h2>
-  		      					 <p></p>
+  		      					 <p>Getting the name function to work after taking the
+                         input from the HTML form.</p>
   		         </div>
   		           <div id="content-problems">
   		      			  <h2>Problems</h2>
-  		      					 <p></p>
+  		      					 <p>We ran into some issues with getting the function to
+                         print to the HTML page. Notably the function was not
+                         fully working. After struggling with the function for
+                         hours, we realized that there was a probhlem with what
+                         the input element corresponded to in the function.
+                         After figuring this out, adding a single line that made
+                         it directly link up to the next part of the function
+                         fixed the problem. </p>
   		                 </div>
   		           <div id="content-results">
   		      			  <h2>Results</h2>
-  		      				   <p></p>
+  		      				   <p>Put your name in the inpuit box to get a really cool randomized name</p>
   		      			     </div>
-                              <form id=nameinput>
-                                <label for="uname">Input your Name:</label><br>
-                                <input type="text" id="uname" name="uname"<br>
-                                <button id="mybutton" type="submit" form="nameinput" value="submit">Submit</button>
-                              </form>
+                              <p>
+                              Input your Name:<br>
+                              <input type="text" id="input">
+                              </p>
+                                <button id="mybutton">
+                                  Submit
+                                </button>
+
                             <div id="output">
-                              <p></p>
                             </div>
+
   		      		</body>
   </html>
