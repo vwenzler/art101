@@ -6,7 +6,7 @@
  */
 
 
-// removenametype1 - a function that removes everything but the first 3 letters in a name
+// fix name, sorts the name entered in the window.
   function fixname() {
     // prompts for name
     var normalname = window.prompt("Your name seems to have a bit too much meaning. Let me fix that.") ;
