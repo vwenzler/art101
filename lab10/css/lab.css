@@ -18,7 +18,7 @@ background-color: #5FDFC2;
 #content-challenge {
   background-color: #907DE8;
       width: 700px;
-      min-height: 200px;
+      min-height: 175px;
       padding: 15px;
       margin: 10px;
       border: solid 6px #673499;
@@ -28,7 +28,7 @@ background-color: #5FDFC2;
 #content-problems {
   background-color: #EC7878;
       width: 700px;
-      min-height: 200px;
+      min-height: 175px;
       padding: 15px;
       margin: 10px;
       border: solid 6px #673499;
@@ -46,7 +46,7 @@ padding: 15px
 #content-results {
   background-color: #87EC77;
       width: 700px;
-      min-height: 200px;
+      min-height: 125px;
       padding: 15px;
       margin: 10px;
       border: solid 6px #673499;
