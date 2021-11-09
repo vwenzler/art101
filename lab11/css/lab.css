@@ -1,0 +1,51 @@
+p {
+  font-family:"fantasy";
+  text-indent: 25px;
+  margin-left: 10px;
+}
+
+#background{
+  background-color: lightgray;
+}
+
+#challenge {
+  background-color: #907DE8;
+      width: 700px;
+      min-height: 175px;
+      padding: 15px;
+      margin: 10px;
+      border: solid 6px #673499;
+      font-size: 17px;
+}
+
+#problems {
+  background-color: #EC7878;
+      width: 700px;
+      min-height: 175px;
+      padding: 15px;
+      margin: 10px;
+      border: solid 6px #673499;
+      font-size: 17px;
+}
+
+#results {
+  background-color: #87EC77;
+      width: 700px;
+      min-height: 125px;
+      padding: 15px;
+      margin: 10px;
+      border: solid 6px #673499;
+      font-size: 17px;
+}
+
+.sectionbox {
+  border: solid 1px black;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.special {
+  background-color: black;
+    border: solid 3px white;
+}
