@@ -1,7 +1,6 @@
 <html>
     <head>
         <title>Lab 11 - Libraries and jQuery</title>
-        <link rel="stylesheet" type="text/css" href="../css/site.css">
     		<link rel="stylesheet" type="text/css" href="css/lab.css">
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"
                 integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
@@ -9,22 +8,24 @@
         <script src="js/lab.js" defer></script>
   	 </head>
   		  	<body id="background">
-  		      	 <div id="challenge" class="sectionbox">
   		      		 <h1>Lab 11: Libraries and jQuery</h1>
   		      		 <h2>Challenges</h2>
   		      		 <p>properly linking up jQuery as a library</p>
-  		         </div>
+                 <div id="challenge" class="sectionbox"></div>
 
-  		           <div id="problems" class="sectionbox">
-  		      			  <h2>Problems</h2>
-  		      			  <p>During the process of linking </p>
-  		           </div>
+                 <h2>Problems</h2>
+                 <p>During the process of linking the javascript file the buttons wouldn't work.
+                   The problem was because there was conflict between various parts of the CSS file.
+                   By removing the problematic elements, the script was able to function,
+                   albeit with less visual flair. </p>
+  		           <div id="problems" class="sectionbox"></div>
 
-  		           <div id="results" class="sectionbox">
-  		      			  <h2>Results</h2>
-  		      			  <p></p>
-  		      		 </div>
-              <div id="output"></div>
+                 <h2>Results</h2>
+                 <p>Pressing the buttons leads to them toggling their properties. </p>
+  		           <div id="results" class="sectionbox"></div>
 
-  		    </body>
+              <div id="output">
+          </div>
+
+  		 </body>
   </html>
