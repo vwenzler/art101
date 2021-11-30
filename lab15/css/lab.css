@@ -19,7 +19,7 @@ h1 {
 
 #content-challenge {
   background-color: #907DE8;
-      width: 700px;
+      width: 1000px;
       min-height: 175px;
       padding: 15px;
       margin: 10px;
@@ -29,7 +29,7 @@ h1 {
 
 #content-problems {
   background-color: #EC7878;
-      width: 700px;
+      width: 1000px;
       min-height: 175px;
       padding: 15px;
       margin: 10px;
@@ -52,7 +52,7 @@ left: 60px;
 }
 #content-results {
   background-color: #87EC77;
-      width: 700px;
+      width: 1000px;
       min-height: 125px;
       padding: 15px;
       margin: 10px;
@@ -62,7 +62,7 @@ left: 60px;
 
 #javascriptstuff {
   background-color: #907DE8;
-      width: 700px;
+      width: 1000px;
       min-height: 175px;
       padding: 15px;
       margin: 10px;
