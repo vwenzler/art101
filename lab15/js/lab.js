@@ -5,7 +5,7 @@
  *Basic structure from Wes Modes wmodes@ucsc.edu
  */
 
-var myUrl = "https://numbersapi.com/11/30/date";
+var myUrl = "https://random-word-api.herokuapp.com/word?number=10";
 
 
 function callAjax() {
