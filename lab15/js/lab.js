@@ -5,7 +5,7 @@
  *Basic structure from Wes Modes wmodes@ucsc.edu
  */
 
-var myUrl = "http://numbersapi.com/11/30/date";
+var myUrl = "https://numbersapi.com/11/30/date";
 
 
 function callAjax() {
